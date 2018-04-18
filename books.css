@@ -1,0 +1,32 @@
+body {
+
+
+}
+
+header {
+	font-size:125px;
+	color:white;
+	font-family: 'Great Vibes', cursive;
+	padding-bottom:0px;
+	background-color:#CFD6EA;
+}
+
+.list {
+	margin-right:0;
+	padding-right:0;
+}
+
+
+li {
+	font-style:italic;
+	color:white;
+	background-color:#4F5D2F;
+	padding:20px;
+	font-size:20px;
+}
+
+.author{
+	font-style: normal;
+	color:white;
+	font-size:15px;
+}
