@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 font-family: 'Playfair Display', serif;
 background-color: #778DA9;
@@ -25,4 +26,33 @@ header {
 	header{
 		font-size:150px;
 	}
+=======
+body {
+font-family: 'Playfair Display', serif;
+background-color: #778DA9;
+
+}
+
+header {
+	font-size:100px;
+	text-align: center;
+	color:#1B263B;
+}
+
+.quote {
+	padding:10px;
+	margin:10px;
+	color:#415A77;
+}
+
+.author {
+	font-style:italic;
+	color:#415A77;
+}
+
+@media (min-width:786px){
+	header{
+		font-size:150px;
+	}
+>>>>>>> 575a5dd4ff3d45b600dad731ccf54be5340081a6
 }
